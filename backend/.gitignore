@@ -1,0 +1,14 @@
+# Ignore Node modules
+node_modules/
+
+# Ignore client node modules
+client/node_modules/
+
+# Ignore backend node modules
+backend/node_modules/
+
+# Optional: log and env files
+*.log
+.env
+
+package-lock.json
